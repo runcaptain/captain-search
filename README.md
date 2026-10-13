@@ -4,8 +4,8 @@
 
 ```html
 <script type="module"
-  src="https://cdn.jsdelivr.net/gh/runcaptain/captain-search@1.7.0/captain-search.js"
-  integrity="sha384-4JUnr9Ps2oZuX0Mm2N0q3GypEyougfxIEWL7NZAWE3SE4dxJec4WDdwLRh49lwkE"
+  src="https://cdn.jsdelivr.net/gh/runcaptain/captain-search@1.7.1/captain-search.js"
+  integrity="sha384-WlMHytFtGSHgxtZc/R1i7Jd9I3z6+hjkCLsmT9/Pe6GtFqJUvqIPKmU7pwbl8RGh"
   crossorigin="anonymous"></script>
 
 <captain-search
@@ -25,8 +25,8 @@ For a full search page (facets, sort, pagination, URL sync), load `captain-insta
 
 Use a **scoped key** with `allowed_origins` set to your site. Never put a search key or a write key in a page.
 
-`@1.7.0` pins this exact file, and the `integrity` hash (one per file, in `integrity.json`) makes the browser refuse any other bytes. `@1` follows the newest 1.x release but cannot carry a hash.
+`@1.7.1` pins this exact file, and the `integrity` hash (one per file, in `integrity.json`) makes the browser refuse any other bytes. `@1` follows the newest 1.x release but cannot carry a hash.
 
 Attributes, styling, events and key setup: https://docs.captain.dev/app-search/search-widget
 
-This repository holds only released builds. Each release is a tag (`v1.7.0`), and `integrity.json` lists each file's SRI hash.
+This repository holds only released builds. Each release is a tag (`v1.7.1`), and `integrity.json` lists each file's SRI hash.
