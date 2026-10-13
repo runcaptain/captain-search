@@ -1,8 +1,8 @@
 {
-  "version": "1.4.0",
+  "version": "1.5.0",
   "files": {
-    "captain-search.js": "sha384-H3KsMSqYaVQoKWMOmai07uN5MebW+NeCuBEP07N3LvcO5Qp1btD1I9sgE2FWnW6i",
-    "captain-search-extras.js": "sha384-1uB2LVoTF4Xz8EEJXzhegWo+DbHT7HYWEE5Fd+0pecHRWA+/oStMY3unC3JprXVd",
-    "captain-instantsearch.js": "sha384-EHtKPcNkg5Pbbo9qn02MSW5yWp1IDI8Eek+V+F9oS32REaldOEuWVFb7h1RIo9HM"
+    "captain-search.js": "sha384-vv5LJUtlGpJOwGwsd6FvbiTS2DOrmvkjnp/0UB1UvsC+rzxMEa01rWdreO6ytPfw",
+    "captain-search-extras.js": "sha384-dThMW9HuLBWBEykWre7FjCAVKxvNI2FTBTAw68hcAWIiuWvt72NNlw6TsH31l6WQ",
+    "captain-instantsearch.js": "sha384-U4rqGjX2qrQbYKN1qvIbuJa9r3s+/SHou9SM3qg20dbCTYdLALo0+JwwmqZEu94h"
   }
 }
